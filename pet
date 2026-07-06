@@ -1,5 +1,3 @@
-import os
-os.system("cls")
 class Pet:
     def __init__(self, nome, humor):
         self._nome = nome
